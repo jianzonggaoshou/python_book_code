@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a3f0cf1c-03cd-4b76-8cd9-88417fff6995" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_02/restful01/toys/views.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_02/restful01/toys/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter05/hillar_django_restful_05_01/restful01/toys/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter05/hillar_django_restful_05_01/restful01/toys/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter06/hillar_django_restful_06_01/restful01/toys/views.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter06/hillar_django_restful_06_01/restful01/toys/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter07/hillar_django_restful_07_03/restful01/toys/views.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter07/hillar_django_restful_07_03/restful01/toys/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter10/hillar_django_restful_10_02/restful01/toys/serializers.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter10/hillar_django_restful_10_02/restful01/toys/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#153#188#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="20" />
+    <option name="y" value="40" />
+    <option name="width" value="2696" />
+    <option name="height" value="1664" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter04" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_04_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_05_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_05_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter05" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_05_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_06_01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_06_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter06" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_06_01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_07_03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter07" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_07_03" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_10_02" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_10_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_10_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Django-RESTful-Web-Services-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Django-RESTful-Web-Services-master" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter10" type="462c0819:PsiDirectoryNode" />
+              <item name="hillar_django_restful_10_02" type="462c0819:PsiDirectoryNode" />
+              <item name="restful01" type="462c0819:PsiDirectoryNode" />
+              <item name="toys" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3f0cf1c-03cd-4b76-8cd9-88417fff6995" name="Default Changelist" comment="" />
+      <created>1560012864101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560012864101</updated>
+      <workItem from="1560012865687" duration="917000" />
+      <workItem from="1560045074573" duration="484000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1401000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24716553" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/restful01/wsgi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#226#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/restful01/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1643" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/restful01/urls.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/toys/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter01/hillar_django_restful_01/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02/hillar_django_restful_02_01/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#153#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter02/hillar_django_restful_02_01/restful01/toys/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03/hillar_django_restful_03_01/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-59" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03/hillar_django_restful_03_01/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="49" column="45" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_01/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_01/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#153#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_02/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter04/hillar_django_restful_04_02/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter05/hillar_django_restful_05_01/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter05/hillar_django_restful_05_01/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter06/hillar_django_restful_06_01/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter06/hillar_django_restful_06_01/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter07/hillar_django_restful_07_03/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter07/hillar_django_restful_07_03/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/hillar_django_restful_10_02/restful01/toys/serializers.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10/hillar_django_restful_10_02/restful01/toys/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#153#188#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
